@@ -1,0 +1,27 @@
+{
+  "name": "auth-edu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasiljev98/auth-edu.git"
+  },
+  "keywords": [
+    "auth",
+    "education",
+    "node.js"
+  ],
+  "author": "Danila Vasiliev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasiljev98/auth-edu/issues"
+  },
+  "homepage": "https://github.com/vasiljev98/auth-edu#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
